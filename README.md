@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @askeladd12
+- 👋 Hi, I’m Darian sanchez
 - 👀 I’m interested in: Programing and finances 
 - 🌱 I’m currently learning: Back-end with python, analysis of data and English
 - 💞️ I’m looking to collaborate on: python related projects
