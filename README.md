@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darian sanchez
 - 👀 I’m interested in: Programing and finances 
-- 🌱 I’m currently learning: Back-end with python, analysis of data and English
+- 🌱 I’m currently learning: data analyst and English
 - 💞️ I’m looking to collaborate on: python related projects
 - 📫 How to reach me: gmail:darianwork1106@gmail.com  twitter: @MAskeladd
 
